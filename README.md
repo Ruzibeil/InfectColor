@@ -1,0 +1,2 @@
+# InfectColor
+a intersting game
